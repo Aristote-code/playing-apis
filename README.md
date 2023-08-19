@@ -11,7 +11,6 @@ This repository contains a small web application that leverages external APIs to
 - [APIs Used](#apis-used)
 - [Demo Video](#demo-video)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -57,26 +56,19 @@ This web application is designed to provide users with relevant data through ext
 
 The following external APIs have been used in this application:
 
-1. API Name: [TravelInfoAPI](https://rapidapi.com/travel-info-api)
-   Description: This API provides travel-related information such as flight details, hotel availability, and weather updates.
-
-2. API Name: [EntertainMeAPI](https://rapidapi.com/entertain-me)
-   Description: EntertainMeAPI offers a wide range of entertainment data, including movie recommendations, music playlists, and more.
+1. API Name: [Fetch infinite book](https://www.googleapis.com/books/v1/volumes?q=isbn:0451450523)
+   Description: This API provides endless books every time you press on the books given
 
 Please make sure to visit the provided API documentation links for further details on usage, endpoints, and API keys.
 
 ## Demo Video
 
-Check out the [demo video](https://youtube.com/your-demo-video-link) to see how the application works and how to use its features effectively.
+Check out the [demo video](https://www.loom.com/share/db73daf160b146af920c4a6813cef6e6) to see how the application works and how to use its features effectively.
 
 ## Contributing
 
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
-Developed by [Your Name](https://github.com/your-username) | APIs credits to their respective developers.
+Developed by [Aristote Gahima](https://github.com/aristote-code) | APIs credits to their respective developers.
